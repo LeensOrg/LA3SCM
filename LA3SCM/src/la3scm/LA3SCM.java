@@ -16,6 +16,7 @@ public class LA3SCM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //bug found
 <<<<<<< HEAD
         System.out.println("Hello World!");
 =======
