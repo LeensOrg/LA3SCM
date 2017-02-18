@@ -16,7 +16,14 @@ public class LA3SCM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         System.out.println("Hello World!");
+=======
+        System.out.println("Hello World");
     }
-    
+    void addFeatureB()
+    {
+        System.out.println("Added feature B");
+>>>>>>> a2984b8b02b87fc5f0f2d0ad36327b32510f7f10
+    }
 }
