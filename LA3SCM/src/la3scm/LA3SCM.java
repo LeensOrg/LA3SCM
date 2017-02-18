@@ -19,11 +19,14 @@ public class LA3SCM {
 <<<<<<< HEAD
         System.out.println("Hello World!");
 =======
-        System.out.println("Hello World");
     }
     void addFeatureB()
     {
         System.out.println("Added feature B");
 >>>>>>> a2984b8b02b87fc5f0f2d0ad36327b32510f7f10
+    }
+    void addFeatureA()
+    {
+    	System.out.println("Added feature A");
     }
 }
